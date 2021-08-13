@@ -1,0 +1,10 @@
+c:\Users\eliza\source\repos\enobull\MediaCatalog\BookCatalog\bin\Debug\BookCatalog.dacpac
+c:\Users\eliza\source\repos\enobull\MediaCatalog\BookCatalog\bin\Debug\BookCatalog.dll
+c:\Users\eliza\source\repos\enobull\MediaCatalog\BookCatalog\bin\Debug\BookCatalog.pdb
+c:\Users\eliza\source\repos\enobull\MediaCatalog\BookCatalog\obj\Debug\BookCatalog.sqlprojAssemblyReference.cache
+c:\Users\eliza\source\repos\enobull\MediaCatalog\BookCatalog\obj\Debug\Model.xml
+c:\Users\eliza\source\repos\enobull\MediaCatalog\BookCatalog\obj\Debug\refactor.xml
+c:\Users\eliza\source\repos\enobull\MediaCatalog\BookCatalog\obj\Debug\postdeploy.sql
+c:\Users\eliza\source\repos\enobull\MediaCatalog\BookCatalog\obj\Debug\predeploy.sql
+c:\Users\eliza\source\repos\enobull\MediaCatalog\BookCatalog\obj\Debug\BookCatalog.dll
+c:\Users\eliza\source\repos\enobull\MediaCatalog\BookCatalog\obj\Debug\BookCatalog.pdb

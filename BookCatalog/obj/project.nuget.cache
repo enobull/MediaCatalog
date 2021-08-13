@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rf1/9BPNFDlqYRcREtUONqn94F0Rc5YGYXEdLxcbjjfyPPsuPt8W0zxyNpRU6jf8Bh+1VKEbn2+JKwxrvoVshg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\eliza\\source\\repos\\enobull\\MediaCatalog\\BookCatalog\\BookCatalog.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eliza\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\eliza\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
