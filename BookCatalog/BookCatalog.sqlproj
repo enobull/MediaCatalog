@@ -75,5 +75,6 @@
     <Build Include="dbo\Tables\Author.sql" />
     <Build Include="dbo\Tables\Sales.sql" />
     <Build Include="dbo\Stored Procedures\GetBook.sql" />
+    <Build Include="dbo\Stored Procedures\GetAuthor.sql" />
   </ItemGroup>
 </Project>
